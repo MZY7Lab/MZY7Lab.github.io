@@ -5,6 +5,6 @@ We are a creative organization. Our main ideas are inventing cool things and dis
 
 ### CATALOG
 
-- [\[**NEW**\]WEARABLE SMART DEVICES](wsd/
+- [\[**NEW**\]WEARABLE SMART DEVICES](wsd/)
 - [INKS](inks/)
 - [ENVIRONMENT MONITING](env/)
