@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to the site of MZY7Lab
+## 欢迎来到MZY7Lab的站点！
 
-You can use the [editor on GitHub](https://github.com/MZY7Lab/MZY7Lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are a creative organization. Our main ideas are inventing cool things and discover more interesting things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CATALOG
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [INKS](inks/)
 
 ```markdown
 Syntax highlighted code block
